@@ -1,0 +1,35 @@
+body {
+    user-select: none;
+}
+
+.container {
+    width: 80%;
+    max-width: 800px;
+    text-align: center;
+    padding: 20px;
+    background-color: #40312C;
+    color: #F2F2F2;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 10px;
+}
+
+@media only screen and (max-width: 600px) {
+    .container {
+        width: 90%;
+    }
+}
+
+h1 {
+    color: #F2F2F2;
+}
+
+p {
+    color: #73635D;
+}
+
+.pdf-container {
+    width: 100%;
+    overflow: hidden;
+    margin-top: 20px;
+}
