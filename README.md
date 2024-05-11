@@ -27,8 +27,8 @@ Google Sheets API: Para la integración de la base de datos con Google Sheets.
 Git: Para el control de versiones del código fuente.
 GitHub Pages: Para alojar la Landing Page y otros archivos estáticos del sitio web.
 Instrucciones de Uso
-Landing Page: La Landing Page se puede acceder mediante la URL del sitio web.
+Landing Page: La Landing Page se puede acceder mediante el menu.
 
 Administrador de Datos: Accede al administrador de datos utilizando el enlace proporcionado en la página de administración. Aquí puedes ingresar y gestionar los datos almacenados en la base de datos de Google Sheets.
 
-Página de Nuevos Empleados: La página de Nuevos Empleados se puede acceder mediante el enlace proporcionado en la sección correspondiente del sitio web.
+Página de Nuevos Empleados: La página de Nuevos Empleados se puede acceder mediante el menu del sitio web.
