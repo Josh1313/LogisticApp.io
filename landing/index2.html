@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Today's Date</title>
+</head>
+<body>
+
+    <script>
+        // Get today's date
+        const today = new Date();
+
+        // Format the date as YYYY-MM-DD
+        const formattedDate = today.toISOString().split('T')[0];
+
+        // Display the date in the document
+        document.write(`<p>Today's Date: ${formattedDate}</p>`);
+    </script>
+
+</body>
+</html>
